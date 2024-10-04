@@ -1,7 +1,23 @@
 table{
+    border: 2px solid black;
     width: 50%;
     margin: auto;
+    margin-top: 20%;
+    border-collapse: collapse;
+    height: 200px;
 }
+
+.menu{
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+td{
+    text-align: center;
+}
+
 th{
+    border: 2px solid black;
     font-size: x-large;
 }

@@ -9,10 +9,10 @@
 <body>
     <table>
         <tr>
-            <td>
+            <td class="menu">
                 Numero
             </td>
-            <td>
+            <td class="menu">
                 Cuadrado
             </td>
             <th rowspan="2">
