@@ -22,7 +22,7 @@
         <tr>
             <td>
                 <?php
-                    echo $_GET["par"];
+                    echo $_GET["numero"];
                 ?>
             </td>
             <td>

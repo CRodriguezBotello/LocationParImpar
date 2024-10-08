@@ -22,7 +22,7 @@
         <tr>
             <td>
                 <?php
-                    echo $_GET["impar"];
+                    echo $_GET["numero"];
                 ?>
             </td>
             <td>
